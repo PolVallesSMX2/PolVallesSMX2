@@ -48,7 +48,8 @@
 ## 5. Recomanació final
 **- Hosting escollit:** Webempresa
 **- Domini recomanat:** escolaatlantida.com
-**- Justificació de la decisió:** S’ha escollit Webempresa perquè ofereix un servei **especialitzat en WordPress**, amb **còpies de seguretat freqüents**, **SSL inclòs**, **multiidioma compatible** i **5 bústies de correu corporatiu**, complint pràcticament tots els requeriments tècnics del client.  
+**- Justificació de la decisió:**
+S’ha escollit Webempresa perquè ofereix un servei **especialitzat en WordPress**, amb **còpies de seguretat freqüents**, **SSL inclòs**, **multiidioma compatible** i **5 bústies de correu corporatiu**, complint pràcticament tots els requeriments tècnics del client.  
 A més, el servei compta amb **suport tècnic en espanyol 24/7**, alta fiabilitat i una capacitat d’espai superior a la necessària (11 GB), permetent gestionar els pics de trànsit previstos a juliol i setembre.  
 El domini `escolaatlantida.com` és formal, fàcil de recordar i coherent amb la marca acadèmica, assegurant una presència digital professional i internacional.
 ## 6. Conclusions
