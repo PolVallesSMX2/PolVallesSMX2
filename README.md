@@ -1,4 +1,5 @@
-# Proposta de domini i hosting per al client **Escola d’Idiomes Atlàntida**
+# 🌧️ Proposta de domini i hosting per al client 09 🌧️
+# 🏫 **Escola d’Idiomes Atlàntida** 🏫
 ## 1. Presentació del client
 - **L’Escola d’Idiomes Atlàntida** és un centre educatiu especialitzat en l’ensenyament de llengües a totes les edats. Amb una trajectòria consolidada, ofereix cursos presencials i en línia, amb un enfocament personalitzat i metodologies adaptades a diferents nivells i necessitats dels alumnes. La seva activitat es centra a fomentar la competència lingüística i la formació internacional, mantenint una presència activa en xarxes socials com Instagram i Facebook per connectar amb estudiants i famílies.
 - Objectius principals de la web
