@@ -8,24 +8,24 @@
     - Gestionar comunicacions amb estudiants i famílies
     - Proporcionar recursos i informació útil
 - Requeriments tècnics identificats
-- Plataforma basada en **WordPress**
-- **Multiidioma** per atendre alumnes de diferents llengües
-- **Passarel·la de pagament segura** per les matrícules online
-- **SSL i mesures de seguretat** per protegir les dades dels usuaris
-- **Còpies de seguretat setmanals** per garantir la recuperació de la informació
-- **5 bústies de correu corporatiu** per comunicació interna i amb alumnes
-- **Espai web aproximat de 7 GB**, amb previsió de pics de trànsit a juliol i setembre
-- Integració amb **Instagram i Facebook** per mantenir presència digital i comunicació amb estudiants
+	- Plataforma basada en **WordPress**
+	- **Multiidioma** per atendre alumnes de diferents llengües
+	- **Passarel·la de pagament segura** per les matrícules online
+	- **SSL i mesures de seguretat** per protegir les dades dels usuaris
+	- **Còpies de seguretat setmanals** per garantir la recuperació de la informació
+	- **5 bústies de correu corporatiu** per comunicació interna i amb alumnes
+	- **Espai web aproximat de 7 GB**, amb previsió de pics de trànsit a juliol i setembre
+	- Integració amb **Instagram i Facebook** per mantenir presència digital i comunicació amb estudiants
 ## 2. Anàlisi de dominis
 - Criteris per al naming (identitat, SEO, extensió preferida)
-- Nom acadèmic i formal  
-- Fàcil de recordar i escriure  
-- Compatible amb SEO bàsic (paraules clau com “idiomes” o “escola”)  
-- Preferència TLD: **.com** o **.cat**
+	- Nom acadèmic i formal  
+	- Fàcil de recordar i escriure  
+	- Compatible amb SEO bàsic (paraules clau com “idiomes” o “escola”)  
+	- Preferència TLD: **.com** o **.cat**
 - Alternatives de dominis disponibles
-- escolaatlantida.com  
-- atlantidaidiomes.es  
-- escolaidiomesatlantida.cat
+	- escolaatlantida.com  
+	- atlantidaidiomes.es  
+	- escolaidiomesatlantida.cat
 - Recomanació final de domini
 	`escolaatlantida.com` (formal, internacional i coherent amb la marca).
 ## 3. Comparativa de hostings
