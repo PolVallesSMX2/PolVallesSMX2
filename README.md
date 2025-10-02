@@ -2,11 +2,11 @@
 ## 1. Presentació del client
 - **L’Escola d’Idiomes Atlàntida** és un centre educatiu especialitzat en l’ensenyament de llengües a totes les edats. Amb una trajectòria consolidada, ofereix cursos presencials i en línia, amb un enfocament personalitzat i metodologies adaptades a diferents nivells i necessitats dels alumnes. La seva activitat es centra a fomentar la competència lingüística i la formació internacional, mantenint una presència activa en xarxes socials com Instagram i Facebook per connectar amb estudiants i famílies.
 - Objectius principals de la web
-      - Facilitar les matricules online
-      - Informar sobre els cursos i nivells disponibles
-      - Millorar la visibilitat i presència digital
-      - Gestionar comunicacions amb estudiants i famílies
-      - Proporcionar recursos i informació útil
+	- Facilitar les matricules online
+    - Informar sobre els cursos i nivells disponibles
+    - Millorar la visibilitat i presència digital
+    - Gestionar comunicacions amb estudiants i famílies
+    - Proporcionar recursos i informació útil
 - Requeriments tècnics identificats
 - Plataforma basada en **WordPress**
 - **Multiidioma** per atendre alumnes de diferents llengües
