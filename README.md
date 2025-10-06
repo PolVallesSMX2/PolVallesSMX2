@@ -13,12 +13,12 @@ Sóc estudiant de **Sistemes Microinformàtics i Xarxes (SMX2)** i m’apassiona
 
 ---
 
-<!-- ## 📂 Projectes destacats
-- **[Proba](#)** → Descripció breu del projecte
-- **[Nom del projecte 2](#)** → Descripció breu del projecte
+## 📂 Projectes destacats
+- **[EverPia Projecte 2](../Projecte2)** → Descripció breu del projecte
+<!--- **[Nom del projecte 2](#)** → Descripció breu del projecte
 - **[Nom del projecte 3](#)** → Descripció breu del projecte
-
---- -->
+-->
+--- 
 
 ## 📜 Currículum
 - **Formació**: FP de Grau Mitjà en Sistemes Microinformàtics i Xarxes  
