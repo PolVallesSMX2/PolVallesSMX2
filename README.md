@@ -15,7 +15,7 @@ Sóc estudiant de **Sistemes Microinformàtics i Xarxes (SMX2)** i m’apassiona
 
 ## 📂 Projectes destacats
 - **[EverPia Projecte 2](../../../Projecte2/blob/main/README.md)**
-- **[EverPia2 Projecte 3](../../../Projecte3-ConsultoriaEverPia2/blob/main/README.md)
+- **[EverPia2 Projecte 3](../../../Projecte3-ConsultoriaEverPia2/blob/main/README.md)**
 <!--- **[Nom del projecte 2](#)** → Descripció breu del projecte→ Descripció breu del projecte
 - **[Nom del projecte 3](#)** → Descripció breu del projecte
 -->
