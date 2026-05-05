@@ -6,7 +6,7 @@ Sóc estudiant de **Sistemes Microinformàtics i Xarxes (SMX2)** i m’apassiona
 
 ## 📌 Sobre mi
 - 🎓 Estudiant de **FP SMX2**
-- 🧑‍💻 En pràctiques a **ETL Ilia**
+- 🧑‍💻 He **fet** pràctiques a **ETL Ilia**
 - 📲 Format per interes personal en **Automatitzacions** i **solucions IA**.
 - 💻 Interessat en **desenvolupament, seguretat informàtica, automatitzacions i intel·ligència artificial**
 - 🔧 M’agrada resoldre problemes tècnics i aprendre nous llenguatges i eines
@@ -32,6 +32,7 @@ Sóc estudiant de **Sistemes Microinformàtics i Xarxes (SMX2)** i m’apassiona
 - **Idiomes**:
   - Català i castellà (natius)
   - Anglès (nivell bàsic)
+  - Francès (Aprenent actualment)
 
 ---
 
