@@ -21,7 +21,7 @@ Sóc estudiant de **Sistemes Microinformàtics i Xarxes (SMX2)** i m’apassiona
 
 ---
 
-## 📂 Projectes Destacats (Projecte Intermodular)
+## 📂 Projectes Destacats (SMX2)
 
 A continuació es detallen els repositoris principals que han format part del desplegament de la meva infraestructura de final de grau:
 
