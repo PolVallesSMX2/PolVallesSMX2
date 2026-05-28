@@ -32,6 +32,7 @@ A continuació es detallen els repositoris principals que han format part del de
 * **[Nexus - Projecte 6](https://github.com/classesSMX2n/projecte6-PolVallesSMX2)** ➔ Disseny i implementació de la memòria tècnica d'infraestructura de xarxes central.
 * **[FoodLogistic - Projecte 7](https://github.com/classesSMX2n/projecte-7-PolVallesSMX2)** ➔ Memòria tècnica de logística i serveis aplicats a entorns empresarials.
 * **[Connecta't al futur - Projecte 8](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2)** ➔ Repositori final d'integració d'automatitzacions i digitalització real.
+* **[Presentació Final](https://github.com/PolVallesSMX2/SMX2PresentacioFinal)**
 
 ---
 
